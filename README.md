@@ -22,12 +22,12 @@ Propose specific retention strategies for each identified segment.
 ---
 
 ### Technologies used:
-pandas
-numpy
-matplotlib
-scipy
-seaborn
-sklearn
+* pandas
+* numpy
+* matplotlib
+* scipy
+* seaborn
+* sklearn
 
 ---
 
